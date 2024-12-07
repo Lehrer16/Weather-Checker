@@ -4,9 +4,6 @@ This application calls from www.openweathermap.org 's api to display weather for
 
 ## Installation
 
-open in any terminal.
-
-## Usage
 
 ```python
 npm i
