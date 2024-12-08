@@ -15,7 +15,7 @@ npm run start
 
 ## Example Site
 
-https://weather-checker2.onrender.com
+https://kanban-authentication.onrender.com
 
 ## Contributing
 
